@@ -1,0 +1,23 @@
+{
+  "name": "learn-fp-ts",
+  "version": "1.0.0",
+  "description": "Learning Resources about fs-ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fs-ts"
+  ],
+  "author": "",
+  "license": "ISC",
+  "workspaces": [
+    "packages\\1-eq",
+    "packages\\2-ord",
+    "packages\\3-semigroup",
+    "packages\\4-monoid",
+    "packages\\5-Category",
+    "packages\\6-Functor",
+    "packages\\7-applicative",
+    "packages\\8-monad"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "ts-node": {
+    "transpileOnly": true
+  },
+  "compilerOptions": {
+    "types": [
+      "mocha",
+      "node"
+    ]
+  },
+  "include": [
+    "**/*.test.ts"
+  ]
+}
