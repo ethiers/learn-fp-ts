@@ -6,7 +6,7 @@ by Giulio Canti
 
 url: https://gcanti.github.io/fp-ts/learning-resources/
 
-## installation
+## Installation
 
 `npm install`
 

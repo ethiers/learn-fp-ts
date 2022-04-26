@@ -18,6 +18,9 @@
     "packages\\5-Category",
     "packages\\6-Functor",
     "packages\\7-applicative",
-    "packages\\8-monad"
+    "packages\\8-monad",
+    "packages\\9-either-valid",
+    "packages\\10-io",
+    "packages\\11-reader"
   ]
 }

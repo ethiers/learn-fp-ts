@@ -1,0 +1,27 @@
+{
+  "name": "10-io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {
+    "@types/node": "^17.0.25",
+    "ts-node": "^10.7.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ethiers/learn-fp-ts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ethiers/learn-fp-ts/issues"
+  },
+  "homepage": "https://github.com/ethiers/learn-fp-ts#readme",
+  "dependencies": {
+    "io-ts": "^2.2.16",
+    "node-disk-storage": "^0.0.2"
+  }
+}
